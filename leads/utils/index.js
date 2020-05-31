@@ -1,0 +1,1 @@
+export { default as JWT_Verify } from './jwt-verify';
