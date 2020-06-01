@@ -1,1999 +1,0 @@
-Script started on Sun May 31 01:26:54 2020
-]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..latform/leads]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hscript
-[J[0mSCRIPT  [Jscript[J[A[0m[27m[24m[54Cscript[K.
-[J[A[61C     s  ../scrtypescript[1m [0m[0m           script.sh[?1l>[?2004l
-[J]2;./script.sh]1;./script.shzsh: no such file or directory: ./script.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..latform/leads]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hccd ..[?1l>[?2004l
-]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K..s.  sscr
-[J[0mSCREEN_NO      [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript       [J[A[0m[27m[24m[48Cscr[Kip
-[J[A[53Ct.sh' [?1l>[?2004l
-[J]2;script.sh]1;script.shzsh: command not found: script.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hscript.sh/script.sh[9D./script.sh[10D[?1l>[?2004l
-]2;./script.sh]1;./script.shzsh: permission denied: ./script.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mdb[39;49m[0m        [1m[36mdocker[39;49m[0m    [1m[36mleads[39;49m[0m     script.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h../
-[J[1;31mdb[0m/      [J[1;31mdocker[0m/  [J[1;31mleads[0m/ [J[A[0m[27m[24m[48C./[Kdb[1m/[0m
-[J[7mdb/    [0m  [J[1;31mdocker[0m/  [J[1;31mleads[0m/ [J[A[0m[27m[24m[48C./db[1m/[0m[K
-[7mdb/    [0m  [7mdb/    [0m  [A[0m[27m[24m[48C./db[1m/[0m[Ko[0mcker[1m/[0m
-[9C[7mdocker/[0m  [1;31mdb[0m/      [A[0m[27m[24m[48C./docker[1m/[0m[Kleads[1m/[0m[0m 
-[18C[7mleads/ [0m[9C[1;31mdocker[0m/  [A[0m[27m[24m[48C./leads[1m/[0m[Kdb[1m/[0m  [0m 
-[7mdb/    [0m  [18C[1;31mleads[0m/ [A[0m[27m[24m[48C./db[1m/[0m[K
-[J[A[53C[0m   .  ssh 
-[J[J[1;31mdb[0m/        [J[1;31mdocker[0m/    [J[1;31mleads[0m/     [Jscript.sh[J[A[0m[27m[24m[48Csh[K[1Cdb[1m/[0m
-[J[7mdb/      [0m  [J[1;31mdocker[0m/    [J[1;31mleads[0m/     [Jscript.sh[J[A[0m[27m[24m[48Csh db[1m/[0m[K
-[7mdb/      [0m  [7mdb/      [0m  [A[0m[27m[24m[48Csh db[1m/[0m[Ko[0mcker[1m/[0m
-[11C[7mdocker/  [0m  [1;31mdb[0m/        [A[0m[27m[24m[48Csh docker[1m/[0m[Kleads[1m/[0m[0m 
-[22C[7mleads/   [0m  [11C[1;31mdocker[0m/    [A[0m[27m[24m[48Csh leads[1m/[0m[Kscrip[0mt.sh
-[33C[7mscript.sh[0m[22C[1;31mleads[0m/     [A[0m[27m[24m[48Csh script.sh[K
-[J[A[60C[1m [0m[0m [?1l>[?2004l
-[J]2;sh script.sh]1;shDefine and run multi-container applications with Docker.
-
-Usage:
-  docker-compose [-f <arg>...] [options] [COMMAND] [ARGS...]
-  docker-compose -h|--help
-
-Options:
-  -f, --file FILE             Specify an alternate compose file
-                              (default: docker-compose.yml)
-  -p, --project-name NAME     Specify an alternate project name
-                              (default: directory name)
-  --verbose                   Show more output
-  --log-level LEVEL           Set log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
-  --no-ansi                   Do not print ANSI control characters
-  -v, --version               Print version and exit
-  -H, --host HOST             Daemon socket to connect to
-
-  --tls                       Use TLS; implied by --tlsverify
-  --tlscacert CA_PATH         Trust certs signed only by this CA
-  --tlscert CLIENT_CERT_PATH  Path to TLS certificate file
-  --tlskey TLS_KEY_PATH       Path to TLS key file
-  --tlsverify                 Use TLS and verify the remote
-  --skip-hostname-check       Don't check the daemon's hostname against the
-                              name specified in the client certificate
-  --project-directory PATH    Specify an alternate working directory
-                              (default: the path of the Compose file)
-  --compatibility             If set, Compose will attempt to convert keys
-                              in v3 files to their non-Swarm equivalent
-  --env-file PATH             Specify an alternate environment file
-
-Commands:
-  build              Build or rebuild services
-  config             Validate and view the Compose file
-  create             Create services
-  down               Stop and remove containers, networks, images, and volumes
-  events             Receive real time events from containers
-  exec               Execute a command in a running container
-  help               Get help on a command
-  images             List images
-  kill               Kill containers
-  logs               View output from containers
-  pause              Pause services
-  port               Print the public port for a port binding
-  ps                 List containers
-  pull               Pull service images
-  push               Push service images
-  restart            Restart services
-  rm                 Remove stopped containers
-  run                Run a one-off command
-  scale              Set number of containers for a service
-  start              Start services
-  stop               Stop services
-  top                Display the running processes
-  unpause            Unpause services
-  up                 Create and start containers
-  version            Show the Docker-Compose version information
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh script.sh[?1l>[?2004l
-]2;sh script.sh]1;sh[31mERROR[0m: Couldn't find env file: /Users/macbookpro/Documents/code/platform/docker/.envs/.postgres
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh script.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh script.sh[K[?1l>[?2004l
-]2;sh script.sh]1;shCreating network "docker_vidaplatform-net" with the default driver
-Creating volume "docker_db-data" with default driver
-Creating volume "docker_db-backups" with default driver
-Creating docker_postgres-db_1 ... 
-[1A[2KCreating docker_postgres-db_1 ... [32mdone[0m[1BCreating docker_app-lead_1    ... 
-[1A[2KCreating docker_app-lead_1    ... [32mdone[0m[1BAttaching to docker_postgres-db_1, docker_app-lead_1
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.471 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.472 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.472 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.502 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.611 UTC [27] LOG:  database system was shut down at 2020-05-31 05:26:46 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 05:29:34.644 UTC [1] LOG:  database system is ready to accept connections
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[36mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[36mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[36mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping docker_app-lead_1    ... 
-Stopping docker_postgres-db_1 ... 
-[2A[2KStopping docker_app-lead_1    ... [32mdone[0m[2B[1A[2KStopping docker_postgres-db_1 ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Kssh buil
-[J[0mBuildStrings  [Jbuild.sh      [Jbuiltin     [J[A[0m[27m[24m[48Csh buil[KB[3CdStrings
-[J[7mBuildStrings[0m  [Jbuild.sh      [Jbuiltin     [J[A[0m[27m[24m[48Csh BuildStrings[K
-[7mBuildStrings[0m  [7mBuildStrings[0m  [A[0m[27m[24m[48Csh BuildStrings[K[12Db[4C.sh    
-[14C[7mbuild.sh    [0m  BuildStrings  [A[0m[27m[24m[48Csh build.sh[K
-[J[A[59C[1m [0m[0m [?1l>[?2004l
-[J]2;sh build.sh]1;shStarting docker_postgres-db_1 ... 
-[1A[2KStarting docker_postgres-db_1 ... [32mdone[0m[1BStarting docker_app-lead_1    ... 
-[1A[2KStarting docker_app-lead_1    ... [32mdone[0m[1BAttaching to docker_postgres-db_1, docker_app-lead_1
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [31mERROR:[39m connect ECONNREFUSED 172.20.0.2:5432
-[36mapp-lead_1     |[0m 
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.402 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.406 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.406 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.413 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.570 UTC [26] LOG:  database system was shut down at 2020-05-31 05:29:46 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 05:30:24.625 UTC [1] LOG:  database system is ready to accept connections
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[32mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[32mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[32mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping docker_app-lead_1    ... 
-Stopping docker_postgres-db_1 ... 
-[2A[2KStopping docker_app-lead_1    ... [32mdone[0m[2B[1A[2KStopping docker_postgres-db_1 ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY ./leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: stat /var/lib/docker/tmp/docker-builder906498903/leads: no such file or directory
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY /leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: stat /var/lib/docker/tmp/docker-builder204359370/leads: no such file or directory
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY ../leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: Forbidden path outside the build context: ../leads ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : RUN ls -lah
- ---> Running in 9bb7c63aef09
-total 8.0K
-drwxr-xr-x 2 root root 4.0K May 31 00:45 .
-drwxr-xr-x 1 root root 4.0K May 31 00:45 ..
-Removing intermediate container 9bb7c63aef09
- ---> 3b4f694acec0
-Step 9/13 : COPY ../leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: Forbidden path outside the build context: ../leads ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : RUN ls -lah ../
- ---> Running in bcbc5c1c1511
-total 12K
-drwxr-xr-x 1 root root 4.0K May 31 00:45 .
-drwxr-xr-x 1 root root 4.0K May 14 10:50 ..
-drwxr-xr-x 2 root root 4.0K May 31 00:45 app
-Removing intermediate container bcbc5c1c1511
- ---> 270fe0e5575b
-Step 9/13 : COPY ../leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: Forbidden path outside the build context: ../leads ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh build.sh[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : COPY . .
- ---> 5307c3674830
-Step 9/13 : RUN ls -lah .
- ---> Running in f58a03c084a3
-total 16K
-drwxr-xr-x 1 root root 4.0K May 31 01:33 .
-drwxr-xr-x 1 root root 4.0K May 31 00:45 ..
--rw-r--r-- 1 root root  300 May 31 01:29 common.yml
--rw-r--r-- 1 root root  601 May 31 01:29 leads.yml
-Removing intermediate container f58a03c084a3
- ---> db2e4c89565f
-Step 10/13 : RUN npm install -g sequelize-cli nodemon
- ---> Running in 20ffe1d74a6c
-^C[31mERROR[0m: Aborting.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh build.sh[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : COPY ../leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: Forbidden path outside the build context: ../leads ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-[31mERROR[0m: Forbidden path outside the build context: ../leads/docker/local/app/Dockerfile ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[8Dscript.sh[9Dbuild.sh [H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;sh[31mERROR[0m: Couldn't find env file: /Users/macbookpro/Documents/code/.envs/.postgres
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;sh[31mERROR[0m: Couldn't find env file: /Users/macbookpro/Documents/code/platform/.envs/.backend
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-[31mERROR[0m: Cannot locate specified Dockerfile: ./docker/local/app/Dockerfile
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : COPY . .
- ---> a8378061a537
-Step 9/13 : RUN ls -lah .
- ---> Running in fe8a51f59d27
-total 36K
-drwxr-xr-x  1 root root 4.0K May 31 01:42 .
-drwxr-xr-x  1 root root 4.0K May 31 00:45 ..
-drwxr-xr-x  2 root root 4.0K May 31 00:39 .envs
--rw-r--r--  1 root root   27 May 31 00:40 .gitignore
--rw-r--r--  1 root root  102 May 31 01:37 build.sh
-drwxr-xr-x  4 root root 4.0K May 31 00:37 db
--rw-r--r--  1 root root  297 May 31 01:40 docker-compose.yml
--rw-r--r--  1 root root  102 May 31 01:37 init.sh
-drwxr-xr-x 12 root root 4.0K May 31 01:37 leads
-Removing intermediate container fe8a51f59d27
- ---> 3bc752696984
-Step 10/13 : RUN npm install -g sequelize-cli nodemon
- ---> Running in 226e8f9f0300
-^C[31mERROR[0m: Aborting.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : COPY ../leads .
-[31mERROR[0m: Service 'app-lead' failed to build: COPY failed: Forbidden path outside the build context: ../leads ()
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/13 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/13 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/13 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/13 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/13 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/13 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/13 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/13 : COPY ./leads .
- ---> 488d5e5f4a92
-Step 9/13 : RUN ls -lah .
- ---> Running in 08617a7de91e
-total 276K
-drwxr-xr-x   1 root root 4.0K May 31 01:43 .
-drwxr-xr-x   1 root root 4.0K May 31 00:45 ..
--rw-r--r--   1 root root   86 May 30 22:41 .babelrc
--rw-r--r--   1 root root   23 May 30 23:38 .dockerignore
-drwxr-xr-x   2 root root 4.0K May 31 00:39 .envs
--rw-r--r--   1 root root   27 May 30 23:38 .gitignore
--rw-r--r--   1 root root  104 May 31 00:25 .sequelizerc
-drwxr-xr-x   2 root root 4.0K May 31 00:06 config
-drwxr-xr-x   3 root root 4.0K May 30 23:25 docker
--rw-r--r--   1 root root  597 May 31 01:41 docker-compose.yml
-drwxr-xr-x   3 root root 4.0K May 31 00:54 handlers
--rw-r--r--   1 root root  347 May 31 01:16 index.js
-drwxr-xr-x   2 root root 4.0K May 31 00:19 migrations
-drwxr-xr-x   2 root root 4.0K May 31 00:19 models
-drwxr-xr-x 289 root root  12K May 31 00:25 node_modules
--rw-r--r--   1 root root 156K May 31 00:25 package-lock.json
--rw-r--r--   1 root root  723 May 31 00:25 package.json
-drwxr-xr-x   2 root root 4.0K May 30 22:52 routes
-drwxr-xr-x   2 root root 4.0K May 30 23:02 seeders
-drwxr-xr-x   2 root root 4.0K May 31 00:48 services
--rw-r--r--   1 root root  33K May 31 01:43 typescript
-Removing intermediate container 08617a7de91e
- ---> 0d96d6c42f29
-Step 10/13 : RUN npm install -g sequelize-cli nodemon
- ---> Running in a4afb00af4c0
-^C[31mERROR[0m: Aborting.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[K[?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY ./leads .
- ---> 22f2f880615a
-Step 9/12 : RUN npm install -g sequelize-cli nodemon
- ---> Running in de58b3c82128
-/usr/local/bin/nodemon -> /usr/local/lib/node_modules/nodemon/bin/nodemon.js
-/usr/local/bin/sequelize -> /usr/local/lib/node_modules/sequelize-cli/lib/sequelize
-/usr/local/bin/sequelize-cli -> /usr/local/lib/node_modules/sequelize-cli/lib/sequelize
-
-> nodemon@2.0.4 postinstall /usr/local/lib/node_modules/nodemon
-> node bin/postinstall || exit 0
-
-[32mLove nodemon? You can now support the project via the open collective:[22m[39m
- > [96m[1mhttps://opencollective.com/nodemon/donate[0m
-
-[91mnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.1.2 (node_modules/nodemon/node_modules/chokidar/node_modules/fsevents):
-npm WARN [0m[91mnotsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-[0m[91m
-[0m+ sequelize-cli@5.5.1
-+ nodemon@2.0.4
-added 200 packages from 85 contributors in 104.294s
-Removing intermediate container de58b3c82128
- ---> eb78fd3856e2
-Step 10/12 : RUN npm install
- ---> Running in 57163182f1bd
-[91mnpm[0m[91m WARN[0m[91m babel-loader@8.1.0 requires a peer of webpack@>=2 but none is installed. You must install peer dependencies yourself.
-[0m[91mnpm WARN[0m[91m platform-leads@1.0.0 No repository field.
-[0m[91m
-[0maudited 438 packages in 6.558s
-
-21 packages are looking for funding
-  run `npm fund` for details
-
-found 0 vulnerabilities
-
-Removing intermediate container 57163182f1bd
- ---> c684cb32397c
-Step 11/12 : EXPOSE 8001
- ---> Running in 28e4509a4bdd
-Removing intermediate container 28e4509a4bdd
- ---> da8a2a7d14ff
-Step 12/12 : CMD [ "npm", "run", "start:dev" ]
- ---> Running in e0362d062eee
-Removing intermediate container e0362d062eee
- ---> 816fb578b820
-Successfully built 816fb578b820
-Successfully tagged platform_lead:latest
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hsh build.sh        in
-[0mindent             infocmp            init.sh            install_name_tool  instmodsh5.18    
-indxbib            infokey            install            installer          instruments      
-[Jinfo               [Jinfotocap          [Jinstall-info       [Jinstmodsh          [Jinteger          [J[3A[0m[27m[24m[48Csh in[Kit.sh[1m [0m[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh init.sh[1m [0m[K[0m [?1l>[?2004l
-]2;sh init.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY ./leads .
- ---> fcc8034d6205
-Step 9/12 : RUN npm install -g sequelize-cli nodemon
- ---> Running in c3b402f99319
-^C[31mERROR[0m: Aborting.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shRecreating platform_postgres-db_1 ... 
-[1A[2KRecreating platform_postgres-db_1 ... [32mdone[0m[1BRecreating platform_app-lead_1    ... 
-[1A[2KRecreating platform_app-lead_1    ... [32mdone[0m[1BAttaching to platform_postgres-db_1, platform_app-lead_1
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [31mERROR:[39m connect ECONNREFUSED 172.19.0.2:5432
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.121 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.138 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.138 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.143 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.240 UTC [26] LOG:  database system was shut down at 2020-05-31 05:30:30 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 05:49:30.285 UTC [1] LOG:  database system is ready to accept connections
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[32mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[32mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[32mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m /usr/src/app/node_modules/@babel/core/lib/parser/index.js:95
-[32mapp-lead_1     |[0m     throw err;
-[32mapp-lead_1     |[0m     ^
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m SyntaxError: /usr/src/app/handlers/leads/get-all.js: Can not use keyword 'await' outside an async function (5:21)
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m   3 | const get_all_leads = (req, res) => {
-[32mapp-lead_1     |[0m   4 |   try {
-[32mapp-lead_1     |[0m > 5 |     const allLeads = await LeadService.getAllLeads();
-[32mapp-lead_1     |[0m     |                      ^
-[32mapp-lead_1     |[0m   6 | 
-[32mapp-lead_1     |[0m   7 |     return res.status(200).json({
-[32mapp-lead_1     |[0m   8 |       data: allLeads,
-[32mapp-lead_1     |[0m     at Parser._raise (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:60:45)
-[32mapp-lead_1     |[0m     at Parser.raiseWithData (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:55:17)
-[32mapp-lead_1     |[0m     at Parser.raise (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:39:17)
-[32mapp-lead_1     |[0m     at Parser.checkReservedWord (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:2225:14)
-[32mapp-lead_1     |[0m     at Parser.parseIdentifierName (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:2167:12)
-[32mapp-lead_1     |[0m     at Parser.parseIdentifier (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:2128:23)
-[32mapp-lead_1     |[0m     at Parser.parseExprAtom (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:942:25)
-[32mapp-lead_1     |[0m     at Parser.parseExprSubscripts (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:541:23)
-[32mapp-lead_1     |[0m     at Parser.parseMaybeUnary (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:521:21)
-[32mapp-lead_1     |[0m     at Parser.parseExprOps (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:312:23) {
-[32mapp-lead_1     |[0m   loc: Position { line: 5, column: 21 },
-[32mapp-lead_1     |[0m   pos: 122,
-[32mapp-lead_1     |[0m   code: 'BABEL_PARSE_ERROR'
-[32mapp-lead_1     |[0m }
-[32mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-
-
-
-
-
-
-
-[32mapp-lead_1     |[0m Executing (default): SELECT "id", "first_name", "last_name", "email", "createdAt", "updatedAt" FROM "Leads" AS "Leads";
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m Executing (default): SELECT "id", "first_name", "last_name", "email", "createdAt", "updatedAt" FROM "Leads" AS "Leads";
-
-
-
-
-
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m /usr/src/app/node_modules/@babel/core/lib/parser/index.js:95
-[32mapp-lead_1     |[0m     throw err;
-[32mapp-lead_1     |[0m     ^
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m SyntaxError: /usr/src/app/services/LeadService.js: Support for the experimental syntax 'throwExpressions' isn't currently enabled (8:14):
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m    6 |       return await db.Leads.findAll();
-[32mapp-lead_1     |[0m    7 |     } catch (err) {
-[32mapp-lead_1     |[0m >  8 |       return throw err;
-[32mapp-lead_1     |[0m      |              ^
-[32mapp-lead_1     |[0m    9 |     }
-[32mapp-lead_1     |[0m   10 |   }
-[32mapp-lead_1     |[0m   11 | 
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Add @babel/plugin-proposal-throw-expressions (https://git.io/vb4yF) to the 'plugins' section of your Babel config to enable transformation.
-[32mapp-lead_1     |[0m If you want to leave it as-is, add @babel/plugin-syntax-throw-expressions (https://git.io/vb4SJ) to the 'plugins' section to enable parsing.
-[32mapp-lead_1     |[0m     at Parser._raise (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:60:45)
-[32mapp-lead_1     |[0m     at Parser.raiseWithData (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:55:17)
-[32mapp-lead_1     |[0m     at Parser.expectPlugin (/usr/src/app/node_modules/@babel/parser/src/parser/util.js:154:18)
-[32mapp-lead_1     |[0m     at Parser.parseMaybeUnary (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:489:14)
-[32mapp-lead_1     |[0m     at Parser.parseExprOps (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:312:23)
-[32mapp-lead_1     |[0m     at Parser.parseMaybeConditional (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:264:23)
-[32mapp-lead_1     |[0m     at Parser.parseMaybeAssign (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:212:21)
-[32mapp-lead_1     |[0m     at Parser.parseExpression (/usr/src/app/node_modules/@babel/parser/src/parser/expression.js:162:23)
-[32mapp-lead_1     |[0m     at Parser.parseReturnStatement (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:572:28)
-[32mapp-lead_1     |[0m     at Parser.parseStatementContent (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:195:21) {
-[32mapp-lead_1     |[0m   loc: Position { line: 8, column: 13 },
-[32mapp-lead_1     |[0m   pos: 163,
-[32mapp-lead_1     |[0m   missingPlugin: [ 'throwExpressions' ],
-[32mapp-lead_1     |[0m   code: 'BABEL_PARSE_ERROR'
-[32mapp-lead_1     |[0m }
-[32mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-
-
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-[32mapp-lead_1     |[0m ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:69:17)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:88:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at get_all_leads (/usr/src/app/handlers/leads/create.js:3:20)
-[32mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[32mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[32mapp-lead_1     |[0m a
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m /usr/src/app/node_modules/@babel/core/lib/parser/index.js:95
-[32mapp-lead_1     |[0m     throw err;
-[32mapp-lead_1     |[0m     ^
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m SyntaxError: /usr/src/app/services/LeadService.js: Unexpected token, expected ";" (16:27)
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m   14 |       return await database.Leads.create(newLead);
-[32mapp-lead_1     |[0m   15 |     } catch (error) {
-[32mapp-lead_1     |[0m > 16 |       return new Error(err)or;
-[32mapp-lead_1     |[0m      |                            ^
-[32mapp-lead_1     |[0m   17 |     }
-[32mapp-lead_1     |[0m   18 |   }
-[32mapp-lead_1     |[0m   19 | 
-[32mapp-lead_1     |[0m     at Parser._raise (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:60:45)
-[32mapp-lead_1     |[0m     at Parser.raiseWithData (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:55:17)
-[32mapp-lead_1     |[0m     at Parser.raise (/usr/src/app/node_modules/@babel/parser/src/parser/error.js:39:17)
-[32mapp-lead_1     |[0m     at Parser.unexpected (/usr/src/app/node_modules/@babel/parser/src/parser/util.js:149:16)
-[32mapp-lead_1     |[0m     at Parser.semicolon (/usr/src/app/node_modules/@babel/parser/src/parser/util.js:122:40)
-[32mapp-lead_1     |[0m     at Parser.parseReturnStatement (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:573:12)
-[32mapp-lead_1     |[0m     at Parser.parseStatementContent (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:195:21)
-[32mapp-lead_1     |[0m     at Parser.parseStatement (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:149:17)
-[32mapp-lead_1     |[0m     at Parser.parseBlockOrModuleBlockBody (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:861:25)
-[32mapp-lead_1     |[0m     at Parser.parseBlockBody (/usr/src/app/node_modules/@babel/parser/src/parser/statement.js:833:10) {
-[32mapp-lead_1     |[0m   loc: Position { line: 16, column: 27 },
-[32mapp-lead_1     |[0m   pos: 334,
-[32mapp-lead_1     |[0m   code: 'BABEL_PARSE_ERROR'
-[32mapp-lead_1     |[0m }
-[32mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m Error: ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:16:14)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:88:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at get_all_leads (/usr/src/app/handlers/leads/create.js:3:20)
-[32mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[32mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[32mapp-lead_1     |[0m a
-
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m Error: ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:16:14)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:88:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at get_all_leads (/usr/src/app/handlers/leads/create.js:3:20)
-[32mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[32mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[32mapp-lead_1     |[0m a
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m Error: ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:16:14)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:88:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at get_all_leads (/usr/src/app/handlers/leads/create.js:3:20)
-[32mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[32mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[32mapp-lead_1     |[0m a
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m Error: ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:16:14)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:88:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at get_all_leads (/usr/src/app/handlers/leads/create.js:3:20)
-[32mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[32mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[32mapp-lead_1     |[0m a
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m err ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:13:24)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at /usr/src/app/services/LeadService.js:13:12
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at _callee3$ (/usr/src/app/services/LeadService.js:13:12)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:109:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m err ReferenceError: database is not defined
-[32mapp-lead_1     |[0m     at _callee2$ (/usr/src/app/services/LeadService.js:13:24)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12
-[32mapp-lead_1     |[0m     at /usr/src/app/services/LeadService.js:13:12
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at _callee3$ (/usr/src/app/services/LeadService.js:13:12)
-[32mapp-lead_1     |[0m     at tryCatch (/usr/src/app/node_modules/regenerator-runtime/runtime.js:45:40)
-[32mapp-lead_1     |[0m     at Generator.invoke [as _invoke] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:274:22)
-[32mapp-lead_1     |[0m     at Generator.prototype.<computed> [as next] (/usr/src/app/node_modules/regenerator-runtime/runtime.js:97:21)
-[32mapp-lead_1     |[0m     at asyncGeneratorStep (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:3:24)
-[32mapp-lead_1     |[0m     at _next (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:25:9)
-[32mapp-lead_1     |[0m     at /usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:32:7
-[32mapp-lead_1     |[0m     at new Promise (<anonymous>)
-[32mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/@babel/runtime/helpers/asyncToGenerator.js:21:12)
-[32mapp-lead_1     |[0m     at Function.addLead (/usr/src/app/services/LeadService.js:109:25)
-[32mapp-lead_1     |[0m     at _callee$ (/usr/src/app/handlers/leads/create.js:11:39)
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-
-
-
-
-
-[32mapp-lead_1     |[0m Executing (default): INSERT INTO "Leads" ("id","first_name","last_name","email","createdAt","updatedAt") VALUES (DEFAULT,$1,$2,$3,$4,$5) RETURNING *;
-[32mapp-lead_1     |[0m addLead Leads {
-[32mapp-lead_1     |[0m   dataValues: {
-[32mapp-lead_1     |[0m     id: 1,
-[32mapp-lead_1     |[0m     first_name: 'Victor',
-[32mapp-lead_1     |[0m     last_name: 'Orozco',
-[32mapp-lead_1     |[0m     email: 'vorozco@vidaplatform.com',
-[32mapp-lead_1     |[0m     updatedAt: 2020-05-31T06:34:06.925Z,
-[32mapp-lead_1     |[0m     createdAt: 2020-05-31T06:34:06.925Z
-[32mapp-lead_1     |[0m   },
-[32mapp-lead_1     |[0m   _previousDataValues: {
-[32mapp-lead_1     |[0m     first_name: 'Victor',
-[32mapp-lead_1     |[0m     last_name: 'Orozco',
-[32mapp-lead_1     |[0m     email: 'vorozco@vidaplatform.com',
-[32mapp-lead_1     |[0m     id: 1,
-[32mapp-lead_1     |[0m     createdAt: 2020-05-31T06:34:06.925Z,
-[32mapp-lead_1     |[0m     updatedAt: 2020-05-31T06:34:06.925Z
-[32mapp-lead_1     |[0m   },
-[32mapp-lead_1     |[0m   _changed: {
-[32mapp-lead_1     |[0m     first_name: false,
-[32mapp-lead_1     |[0m     last_name: false,
-[32mapp-lead_1     |[0m     email: false,
-[32mapp-lead_1     |[0m     id: false,
-[32mapp-lead_1     |[0m     createdAt: false,
-[32mapp-lead_1     |[0m     updatedAt: false
-[32mapp-lead_1     |[0m   },
-[32mapp-lead_1     |[0m   _modelOptions: {
-[32mapp-lead_1     |[0m     timestamps: true,
-[32mapp-lead_1     |[0m     validate: {},
-[32mapp-lead_1     |[0m     freezeTableName: false,
-[32mapp-lead_1     |[0m     underscored: false,
-[32mapp-lead_1     |[0m     paranoid: false,
-[32mapp-lead_1     |[0m     rejectOnEmpty: false,
-[32mapp-lead_1     |[0m     whereCollection: null,
-[32mapp-lead_1     |[0m     schema: null,
-[32mapp-lead_1     |[0m     schemaDelimiter: '',
-[32mapp-lead_1     |[0m     defaultScope: {},
-[32mapp-lead_1     |[0m     scopes: {},
-[32mapp-lead_1     |[0m     indexes: [],
-[32mapp-lead_1     |[0m     name: { plural: 'Leads', singular: 'Lead' },
-[32mapp-lead_1     |[0m     omitNull: false,
-[32mapp-lead_1     |[0m     sequelize: Sequelize {
-[32mapp-lead_1     |[0m       options: [Object],
-[32mapp-lead_1     |[0m       config: [Object],
-[32mapp-lead_1     |[0m       dialect: [PostgresDialect],
-[32mapp-lead_1     |[0m       queryInterface: [QueryInterface],
-[32mapp-lead_1     |[0m       models: [Object],
-[32mapp-lead_1     |[0m       modelManager: [ModelManager],
-[32mapp-lead_1     |[0m       connectionManager: [ConnectionManager],
-[32mapp-lead_1     |[0m       importCache: [Object]
-[32mapp-lead_1     |[0m     },
-[32mapp-lead_1     |[0m     hooks: {}
-[32mapp-lead_1     |[0m   },
-[32mapp-lead_1     |[0m   _options: {
-[32mapp-lead_1     |[0m     isNewRecord: true,
-[32mapp-lead_1     |[0m     _schema: null,
-[32mapp-lead_1     |[0m     _schemaDelimiter: '',
-[32mapp-lead_1     |[0m     attributes: undefined,
-[32mapp-lead_1     |[0m     include: undefined,
-[32mapp-lead_1     |[0m     raw: undefined,
-[32mapp-lead_1     |[0m     silent: undefined
-[32mapp-lead_1     |[0m   },
-[32mapp-lead_1     |[0m   isNewRecord: false
-[32mapp-lead_1     |[0m }
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-[32mapp-lead_1     |[0m Executing (default): INSERT INTO "Leads" ("id","first_name","last_name","email","createdAt","updatedAt") VALUES (DEFAULT,$1,$2,$3,$4,$5) RETURNING *;
-[32mapp-lead_1     |[0m Executing (default): SELECT "id", "first_name", "last_name", "email", "createdAt", "updatedAt" FROM "Leads" AS "Leads";
-
-
-
-
-
-
-
-
-
-[32mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m Server is running on PORT 8001
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping platform_app-lead_1      ... 
-Stopping platform_postgres-db_1   ... 
-[2A[2KStopping platform_app-lead_1      ... [32mdone[0m[2B[1A[2KStopping platform_postgres-db_1   ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Kn ccd 
-[J[1;31mdb[0m/     [J[1;31mleads[0m/[J[A[0m[27m[24m[48Ccd[K[1Cleads[1m/[0m[0m [?1l>[?2004l
-[J]2;cd leads]1;cd[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..latform/leads]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hnnpm install --save [7mjsonwebtoken[27m[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  npm install --save jsonwebtoken[K[?1l>[?2004l
-]2;npm install --save jsonwebtoken]1;npm[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 14bad08c2e59fdf7[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠴ loadIdealTree:loadAllDepsIntoIdealTree: [7msill[0m [35minstall[0m loadIdealTree[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠏ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠏ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠏ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠏ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠏ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠴ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠴ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠙ loadDep:semver: [7msill[0m [35mresolveWithNewModule[0m jsonwebtoken@8.5.1 checking installa[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠸ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠼ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m lodash.once@4.1.1 checking inst[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠧ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠇ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ loadDep:safe-buffer: [7msill[0m [35mresolveWithNewModule[0m jwa@1.4.1 checking installable[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠴ loadDep:source-map: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1[0m[K⸨[7m   [27m[90m░░░░░░░░░░░░░░░[0m⸩ ⠴ loadDep:is-descriptor: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠴ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1 che[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠴ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1 che[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠴ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1 che[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠴ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1 che[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠴ loadExtraneous: [7msill[0m [35mresolveWithNewModule[0m buffer-equal-constant-time@1.0.1 che[0m[K⸨[7m      [27m[90m░░░░░░░░░░░░[0m⸩ ⠋ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K⸨[7m       [27m[90m░░░░░░░░░░░[0m⸩ ⠸ postinstall: [7msill[0m [35minstall[0m executeActions[0m[K⸨[7m           [27m[90m░░░░░░░[0m⸩ ⠙ extract:buffer-equal-constant-time: [7msill[0m [35mextract[0m buffer-equal-constant-time@1.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠦ install:lodash.isboolean: [32minfo[0m [35mlifecycle[0m lodash.isboolean@3.0.3~install: lodas[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ postinstall: [32minfo[0m [35mlifecycle[0m jsonwebtoken@8.5.1~postinstall: jsonwebtoken@8.5.1[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠼ postinstall: [32minfo[0m [35mlifecycle[0m jsonwebtoken@8.5.1~postinstall: jsonwebtoken@8.5.1[0m[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m babel-loader@8.1.0 requires a peer of webpack@>=2 but none is installed. You must install peer dependencies yourself.
-[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m platform-leads@1.0.0 No repository field.
-[0m
-[?25l⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [30;43mWARN[0m platform-leads@1.0.0 No repository field.[0m[K[K[?25h+ jsonwebtoken@8.5.1
-added 13 packages from 9 contributors and audited 451 packages in 8.782s
-
-21 packages are looking for funding
-  run `npm fund` for details
-
-found [92m0[0m vulnerabilities
-
-[?25l⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ postinstall: [32;40mtiming[0m [35maudit body[0m Completed in 1ms[0m[K[K[?25h[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..latform/leads]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hnpm install --save jsonwebtoken[31Dcd leads                       [23D[8Dcode .  ls    cd ..http GET http://localhost:8001/api/v1/leads/[?2004l
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..latform/leads]7;file://vorozco.local/Users/macbookpro/Documents/code/platform/leads[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform/leads[00m[31m|[00m[36m⇒[00m  [Kccd ..[?1l>[?2004l
-]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Knnpm  n  ssh 
-[J[0mbuild.sh            [J[1;31mdb[0m/                 [Jdocker-compose.yml  [Jinit.sh             [J[1;31mleads[0m/            [J[A[0m[27m[24m[48Csh[K[1Ci bu
-[J[J[0mBuildStrings  [Jbuild.sh      [Jbuiltin       [Jbunzip2     [J[A[0m[27m[24m[48Csh bu[Ki
-[J[A[54Cl
-[J[J[0mBuildStrings  [Jbuild.sh      [Jbuiltin     [J[A[0m[27m[24m[48Csh buil[KB[3CdStrings
-[J[7mBuildStrings[0m  [Jbuild.sh      [Jbuiltin     [J[A[0m[27m[24m[48Csh BuildStrings[K
-[7mBuildStrings[0m  [7mBuildStrings[0m  [A[0m[27m[24m[48Csh BuildStrings[K[12Db[4C.sh    
-[14C[7mbuild.sh    [0m  BuildStrings  [A[0m[27m[24m[48Csh build.sh[K
-[J[A[59C[1m [0m[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh build.sh[1m [0m[K[0m [?1l>[?2004l
-]2;sh build.sh]1;shpostgres-db uses an image, skipping
-Building app-lead
-Step 1/12 : FROM node:12
- ---> a37df1a0b8f0
-Step 2/12 : ENV TZ=America/Caracas
- ---> Using cache
- ---> 83f463ace6e5
-Step 3/12 : RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
- ---> Using cache
- ---> 3ece72218c7a
-Step 4/12 : RUN apt-get update
- ---> Using cache
- ---> fb037cf242a8
-Step 5/12 : RUN apt-get install -y     build-essential     libfontconfig     vim     && rm -rf /var/lib/apt/lists/*
- ---> Using cache
- ---> 1b07f6656eb3
-Step 6/12 : RUN mkdir -p /usr/src/app
- ---> Using cache
- ---> c9ee8dc7d788
-Step 7/12 : WORKDIR /usr/src/app
- ---> Using cache
- ---> 2f679f737f09
-Step 8/12 : COPY ./leads .
- ---> 02f2534a108a
-Step 9/12 : RUN npm install -g sequelize-cli nodemon
- ---> Running in de559e479353
-/usr/local/bin/nodemon -> /usr/local/lib/node_modules/nodemon/bin/nodemon.js
-/usr/local/bin/sequelize -> /usr/local/lib/node_modules/sequelize-cli/lib/sequelize
-/usr/local/bin/sequelize-cli -> /usr/local/lib/node_modules/sequelize-cli/lib/sequelize
-
-> nodemon@2.0.4 postinstall /usr/local/lib/node_modules/nodemon
-> node bin/postinstall || exit 0
-
-[32mLove nodemon? You can now support the project via the open collective:[22m[39m
- > [96m[1mhttps://opencollective.com/nodemon/donate[0m
-
-[91mnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.1.2 (node_modules/nodemon/node_modules/chokidar/node_modules/fsevents):
-npm[0m[91m WARN[0m[91m [0m[91mnotsup[0m[91m SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-[0m[91m
-[0m+ nodemon@2.0.4
-+ sequelize-cli@5.5.1
-added 200 packages from 85 contributors in 120.718s
-Removing intermediate container de559e479353
- ---> 47c7319e5847
-Step 10/12 : RUN npm install
- ---> Running in 52b851360eb2
-[91mnpm WARN[0m[91m babel-loader@8.1.0 requires a peer of webpack@>=2 but none is installed. You must install peer dependencies yourself.
-[0m[91mnpm WARN platform-leads@1.0.0 No repository field.
-[0m[91m
-[0maudited 451 packages in 8.167s
-
-21 packages are looking for funding
-  run `npm fund` for details
-
-found 0 vulnerabilities
-
-Removing intermediate container 52b851360eb2
- ---> 82509d58c700
-Step 11/12 : EXPOSE 8001
- ---> Running in fa50811b40ed
-Removing intermediate container fa50811b40ed
- ---> 9727315fed2b
-Step 12/12 : CMD [ "npm", "run", "start:dev" ]
- ---> Running in 12cec803d7a2
-Removing intermediate container 12cec803d7a2
- ---> 664166791c9c
-Successfully built 664166791c9c
-Successfully tagged platform_lead:latest
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K
-bck-i-search: _[K[A[33Csh bu[4mi[24mld.sh[1B[45Di_[A[37Cnpm [4mi[4mn[24mstall --save jsonwebtoken[1B[64Dn_[A[35Csh [4mi[4mn[4mi[24mt.sh                     [1B[63Di_[A[33C[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  sh [4mini[24mt.sh[K
-bck-i-search: ini_[K[A[33C[24mi[24mn[24mi[1B[K[A[51C[?1l>[?2004l[1B]2;sh init.sh]1;shStarting platform_postgres-db_1 ... 
-[1A[2KStarting platform_postgres-db_1 ... [32mdone[0m[1BRecreating platform_app-lead_1  ... 
-[1A[2KRecreating platform_app-lead_1  ... [32mdone[0m[1BAttaching to platform_postgres-db_1, platform_app-lead_1
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [31mERROR:[39m connect ECONNREFUSED 172.19.0.2:5432
-[36mapp-lead_1     |[0m 
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.281 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.281 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.281 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.289 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.387 UTC [26] LOG:  database system was shut down at 2020-05-31 06:36:55 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 07:01:45.427 UTC [1] LOG:  database system is ready to accept connections
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[32mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[32mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[32mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[32mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[32mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[32mapp-lead_1     |[0m this is the environment:  development
-[32mapp-lead_1     |[0m internal/modules/cjs/loader.js:969
-[32mapp-lead_1     |[0m   throw err;
-[32mapp-lead_1     |[0m   ^
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Error: Cannot find module 'jsonwebtoken'
-[32mapp-lead_1     |[0m Require stack:
-[32mapp-lead_1     |[0m - /usr/src/app/libs/auth.js
-[32mapp-lead_1     |[0m - /usr/src/app/utils/jwt-verify.js
-[32mapp-lead_1     |[0m - /usr/src/app/utils/index.js
-[32mapp-lead_1     |[0m - /usr/src/app/routes/leads.js
-[32mapp-lead_1     |[0m - /usr/src/app/routes/index.js
-[32mapp-lead_1     |[0m - /usr/src/app/index.js
-[32mapp-lead_1     |[0m     at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
-[32mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:842:27)
-[32mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[32mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[32mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/libs/auth.js:1:1)
-[32mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[32mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[32mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[32mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[32mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[32mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[32mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[32mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[32mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/utils/jwt-verify.js:1:1)
-[32mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[32mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[32mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[32mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[32mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[32mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[32mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[32mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18) {
-[32mapp-lead_1     |[0m   code: 'MODULE_NOT_FOUND',
-[32mapp-lead_1     |[0m   requireStack: [
-[32mapp-lead_1     |[0m     '/usr/src/app/libs/auth.js',
-[32mapp-lead_1     |[0m     '/usr/src/app/utils/jwt-verify.js',
-[32mapp-lead_1     |[0m     '/usr/src/app/utils/index.js',
-[32mapp-lead_1     |[0m     '/usr/src/app/routes/leads.js',
-[32mapp-lead_1     |[0m     '/usr/src/app/routes/index.js',
-[32mapp-lead_1     |[0m     '/usr/src/app/index.js'
-[32mapp-lead_1     |[0m   ]
-[32mapp-lead_1     |[0m }
-[32mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping platform_app-lead_1    ... 
-Stopping platform_postgres-db_1 ... 
-[2A[2KStopping platform_app-lead_1    ... [32mdone[0m[2B[1A[2KStopping platform_postgres-db_1 ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shStarting platform_postgres-db_1 ... 
-[1A[2KStarting platform_postgres-db_1 ... [32mdone[0m[1BStarting platform_app-lead_1    ... 
-[1A[2KStarting platform_app-lead_1    ... [32mdone[0m[1BAttaching to platform_postgres-db_1, platform_app-lead_1
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.414 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.414 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.414 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.419 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.524 UTC [26] LOG:  database system was shut down at 2020-05-31 07:03:09 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.536 UTC [27] FATAL:  the database system is starting up
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [31mERROR:[39m the database system is starting up
-[36mapp-lead_1     |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:30.557 UTC [1] LOG:  database system is ready to accept connections
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[32mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[32mapp-lead_1     |[0m 
-[32mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[32mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[32mapp-lead_1     |[0m 
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping platform_app-lead_1    ... 
-Stopping platform_postgres-db_1 ... 
-[2A[2KStopping platform_app-lead_1    ... [32mdone[0m[2B[1A[2KStopping platform_postgres-db_1 ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh init.sh       do
-[0mdo                             docker-credential-desktop      down-line-or-beginning-search
-docker                         docker-credential-osxkeychain  down.sh                      
-docker-compose                 done                                                        
-[Jdocker-compose.yml             [Jdot_clean                      [J                             [4A[0m[27m[24m[48Csh do[Kw
-[J[A[54Cn.sh[1m [0m[0m [?1l>[?2004l
-[J]2;sh down.sh]1;shRemoving platform_app-lead_1    ... 
-Removing platform_postgres-db_1 ... 
-[2A[2KRemoving platform_app-lead_1    ... [32mdone[0m[2B[1A[2KRemoving platform_postgres-db_1 ... [32mdone[0m[1BRemoving network platform_vidaplatform-net
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Ksh down.shinit[3C[?1l>[?2004l
-]2;sh init.sh]1;shCreating network "platform_vidaplatform-net" with the default driver
-Creating platform_postgres-db_1 ... 
-[1A[2KCreating platform_postgres-db_1 ... [32mdone[0m[1BCreating platform_app-lead_1    ... 
-[1A[2KCreating platform_app-lead_1    ... [32mdone[0m[1BAttaching to platform_postgres-db_1, platform_app-lead_1
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:45.895 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:45.895 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:45.895 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:45.921 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:46.072 UTC [26] LOG:  database system was shut down at 2020-05-31 07:03:33 UTC
-[33mpostgres-db_1  |[0m 2020-05-31 07:03:46.143 UTC [1] LOG:  database system is ready to accept connections
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[36mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[36mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[36mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m /usr/src/app/node_modules/express/lib/router/index.js:458
-[36mapp-lead_1     |[0m       throw new TypeError('Router.use() requires a middleware function but got a ' + gettype(fn))
-[36mapp-lead_1     |[0m       ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError: Router.use() requires a middleware function but got a undefined
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/router/index.js:458:13)
-[36mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/express/lib/application.js:220:21)
-[36mapp-lead_1     |[0m     at Array.forEach (<anonymous>)
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/application.js:217:7)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:16:5)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/node_modules/@babel/node/lib/_babel-node.js:180:21)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at internal/main/run_main_module.js:17:47
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m internal/validators.js:120
-[36mapp-lead_1     |[0m     throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
-[36mapp-lead_1     |[0m     ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received function auth_validations
-[36mapp-lead_1     |[0m     at validateString (internal/validators.js:120:11)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1019:3)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/leads.js:17:3)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/index.js:1:1)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:5:1) {
-[36mapp-lead_1     |[0m   code: 'ERR_INVALID_ARG_TYPE'
-[36mapp-lead_1     |[0m }
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m internal/validators.js:120
-[36mapp-lead_1     |[0m     throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
-[36mapp-lead_1     |[0m     ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received type function ([Function])
-[36mapp-lead_1     |[0m     at validateString (internal/validators.js:120:11)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1019:3)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/leads.js:17:3)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/index.js:1:1)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:5:1) {
-[36mapp-lead_1     |[0m   code: 'ERR_INVALID_ARG_TYPE'
-[36mapp-lead_1     |[0m }
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m internal/validators.js:120
-[36mapp-lead_1     |[0m     throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
-[36mapp-lead_1     |[0m     ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
-[36mapp-lead_1     |[0m     at validateString (internal/validators.js:120:11)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1019:3)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/leads.js:17:3)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/routes/index.js:1:1)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Module.require (internal/modules/cjs/loader.js:1026:19)
-[36mapp-lead_1     |[0m     at require (internal/modules/cjs/helpers.js:72:18)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:5:1) {
-[36mapp-lead_1     |[0m   code: 'ERR_INVALID_ARG_TYPE'
-[36mapp-lead_1     |[0m }
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m /usr/src/app/node_modules/express/lib/router/index.js:458
-[36mapp-lead_1     |[0m       throw new TypeError('Router.use() requires a middleware function but got a ' + gettype(fn))
-[36mapp-lead_1     |[0m       ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError: Router.use() requires a middleware function but got a undefined
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/router/index.js:458:13)
-[36mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/express/lib/application.js:220:21)
-[36mapp-lead_1     |[0m     at Array.forEach (<anonymous>)
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/application.js:217:7)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:16:5)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/node_modules/@babel/node/lib/_babel-node.js:180:21)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at internal/main/run_main_module.js:17:47
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-
-
-[36mapp-lead_1     |[0m this is the environment:  development
-
-
-[36mapp-lead_1     |[0m /usr/src/app/node_modules/express/lib/router/index.js:458
-[36mapp-lead_1     |[0m       throw new TypeError('Router.use() requires a middleware function but got a ' + gettype(fn))
-[36mapp-lead_1     |[0m       ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError: Router.use() requires a middleware function but got a undefined
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/router/index.js:458:13)
-[36mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/express/lib/application.js:220:21)
-[36mapp-lead_1     |[0m     at Array.forEach (<anonymous>)
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/application.js:217:7)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:16:5)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/node_modules/@babel/node/lib/_babel-node.js:180:21)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at internal/main/run_main_module.js:17:47
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-
-
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m /usr/src/app/node_modules/express/lib/router/index.js:458
-[36mapp-lead_1     |[0m       throw new TypeError('Router.use() requires a middleware function but got a ' + gettype(fn))
-[36mapp-lead_1     |[0m       ^
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m TypeError: Router.use() requires a middleware function but got a undefined
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/router/index.js:458:13)
-[36mapp-lead_1     |[0m     at Function.<anonymous> (/usr/src/app/node_modules/express/lib/application.js:220:21)
-[36mapp-lead_1     |[0m     at Array.forEach (<anonymous>)
-[36mapp-lead_1     |[0m     at Function.use (/usr/src/app/node_modules/express/lib/application.js:217:7)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/index.js:16:5)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Module._compile (/usr/src/app/node_modules/pirates/lib/index.js:99:24)
-[36mapp-lead_1     |[0m     at Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Object.newLoader [as .js] (/usr/src/app/node_modules/pirates/lib/index.js:104:7)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at Object.<anonymous> (/usr/src/app/node_modules/@babel/node/lib/_babel-node.js:180:21)
-[36mapp-lead_1     |[0m     at Module._compile (internal/modules/cjs/loader.js:1138:30)
-[36mapp-lead_1     |[0m     at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
-[36mapp-lead_1     |[0m     at Module.load (internal/modules/cjs/loader.js:986:32)
-[36mapp-lead_1     |[0m     at Function.Module._load (internal/modules/cjs/loader.js:879:14)
-[36mapp-lead_1     |[0m     at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
-[36mapp-lead_1     |[0m     at internal/main/run_main_module.js:17:47
-[36mapp-lead_1     |[0m [31m[nodemon] app crashed - waiting for file changes before starting...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m TypeError: (0 , _utils.handleError) is not a function
-[36mapp-lead_1     |[0m     at /usr/src/app/utils/auth.js:12:16
-[36mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[36mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/route.js:137:13)
-[36mapp-lead_1     |[0m     at Route.dispatch (/usr/src/app/node_modules/express/lib/router/route.js:112:3)
-[36mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[36mapp-lead_1     |[0m     at /usr/src/app/node_modules/express/lib/router/index.js:281:22
-[36mapp-lead_1     |[0m     at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:335:12)
-[36mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
-[36mapp-lead_1     |[0m     at Function.handle (/usr/src/app/node_modules/express/lib/router/index.js:174:3)
-[36mapp-lead_1     |[0m     at router (/usr/src/app/node_modules/express/lib/router/index.js:47:12)
-[36mapp-lead_1     |[0m     at Layer.handle [as handle_request] (/usr/src/app/node_modules/express/lib/router/layer.js:95:5)
-[36mapp-lead_1     |[0m     at trim_prefix (/usr/src/app/node_modules/express/lib/router/index.js:317:13)
-[36mapp-lead_1     |[0m     at /usr/src/app/node_modules/express/lib/router/index.js:284:7
-[36mapp-lead_1     |[0m     at Function.process_params (/usr/src/app/node_modules/express/lib/router/index.js:335:12)
-[36mapp-lead_1     |[0m     at next (/usr/src/app/node_modules/express/lib/router/index.js:275:10)
-[36mapp-lead_1     |[0m     at /usr/src/app/utils/jwt-verify.js:13:7
-[36mapp-lead_1     |[0m     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJmaXJzdF9uYW1lIjoiVmljdG9yIiwibGFzdF9uYW1lIjoiT3JvemNvIiwidHlwZSI6MTIwfQ.T4CEYloPgEGqobg0DXN-oCVEsWp_e0_tg_8iqWTX6n8
-[36mapp-lead_1     |[0m token2 undefined
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-
-
-
-
-
-
-[36mapp-lead_1     |[0m token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJmaXJzdF9uYW1lIjoiVmljdG9yIiwibGFzdF9uYW1lIjoiT3JvemNvIiwidHlwZSI6MTIwfQ.T4CEYloPgEGqobg0DXN-oCVEsWp_e0_tg_8iqWTX6n8
-[36mapp-lead_1     |[0m err null
-[36mapp-lead_1     |[0m decodedToken {
-[36mapp-lead_1     |[0m   id: '1234567890',
-[36mapp-lead_1     |[0m   first_name: 'Victor',
-[36mapp-lead_1     |[0m   last_name: 'Orozco',
-[36mapp-lead_1     |[0m   type: 120
-[36mapp-lead_1     |[0m }
-[36mapp-lead_1     |[0m token2 {
-[36mapp-lead_1     |[0m   id: '1234567890',
-[36mapp-lead_1     |[0m   first_name: 'Victor',
-[36mapp-lead_1     |[0m   last_name: 'Orozco',
-[36mapp-lead_1     |[0m   type: 120
-[36mapp-lead_1     |[0m }
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-[36mapp-lead_1     |[0m request:  Get all leads /api/v1/leads GET {}
-[36mapp-lead_1     |[0m Executing (default): SELECT "id", "first_name", "last_name", "email", "createdAt", "updatedAt" FROM "Leads" AS "Leads";
-[36mapp-lead_1     |[0m request:  New lead /api/v1/leads POST {"first_name":"Victor Daniel","last_name":"Orozco","email":"vorozco@mail.com"}
-[36mapp-lead_1     |[0m Executing (default): INSERT INTO "Leads" ("id","first_name","last_name","email","createdAt","updatedAt") VALUES (DEFAULT,$1,$2,$3,$4,$5) RETURNING *;
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m [32m[nodemon] restarting due to changes...[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping platform_app-lead_1    ... 
-Stopping platform_postgres-db_1 ... 
-[2A[2KStopping platform_app-lead_1    ... [32mdone[0m[2B^L[1A[2KStopping platform_postgres-db_1 ... [32mdone[0m[1B[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Kllls[?1l>[?2004l
-]2;lls]1;llszsh: command not found: lls
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsREADME.md          [1m[36mdb[39;49m[0m                 down.sh            [1m[36mleads[39;49m[0m
-build.sh           docker-compose.yml init.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[36m⇒[00m  [Kggit init[?1l>[?2004l
-]2;git init]1;gitInitialized empty Git repository in /Users/macbookpro/Documents/code/platform/.git/
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Klls[?1l>[?2004l
-]2;ls -G]1;lsREADME.md          [1m[36mdb[39;49m[0m                 down.sh            [1m[36mleads[39;49m[0m
-build.sh           docker-compose.yml init.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Kggit remote[1m [0m[0m add origin [7mhttps://github.com/vict[7mo[7mrorozco/microservice-architecture.git[27m[K[A[41C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mv[27mi[27mc[27mto[27mr[27mo[27mr[27mo[27mz[27mc[27mo[27m/[27mm[27mi[27mc[27mr[27mo[27ms[27me[27mr[27mv[27mi[27mc[27me[27m-[27ma[27mr[27mc[27mh[27mi[27mt[27me[27mc[27mt[27mu[27mr[27me[27m.[27mg[27mi[27mt[?1l>[?2004l
-]2;git remote add origin ]1;git[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hggit t remote -v[?1l>[?2004l
-]2;git remote -v]1;gitorigin	https://github.com/victororozco/microservice-architecture.git (fetch)
-origin	https://github.com/victororozco/microservice-architecture.git (push)
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hggit push origin master[?1l>[?2004l
-]2;git push origin master]1;giterror: src refspec master does not match any.
-[31merror: failed to push some refs to 'https://github.com/victororozco/microservice-architecture.git'
-[m[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hggit ouysh     push master[?1l>[?2004l
-]2;git push master]1;giterror: src refspec refs/heads/master does not match any.
-[31merror: failed to push some refs to 'master'
-[m[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hggit push[?1l>[?2004l
-]2;git push]1;gitfatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin master
-
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hggit status[?1l>[?2004l
-]2;git status]1;gitOn branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31m.gitignore[m
-	[31mREADME.md[m
-	[31mbuild.sh[m
-	[31mdocker-compose.yml[m
-	[31mdown.sh[m
-	[31minit.sh[m
-	[31mleads/[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hg[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  g[K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  g[Kggi g  ggit status[?1l>[?2004l
-]2;git status]1;gitOn branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31m.gitignore[m
-	[31mREADME.md[m
-	[31mbuild.sh[m
-	[31mdocker-compose.yml[m
-	[31mdown.sh[m
-	[31minit.sh[m
-	[31mleads/[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Kn ssh init.sh[1m [0m[0m [?1l>[?2004l
-]2;sh init.sh]1;sh[H[2J[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Kssh i s  bbab  iin
-[0mindent             infocmp            input              install_name_tool  instmodsh5.18    
-indxbib            infokey            install            installer          instruments      
-[Jinfo               [Jinfotocap          [Jinstall-info       [Jinstmodsh          [Jinteger          [J[3A[0m[27m[24m[57Cin[Ki  ../init.sh[1m [0m[0m [?1l>[?2004l
-[J]2;./init.sh]1;./init.shzsh: permission denied: ./init.sh
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hccmc chmod +x init.sh[1m [0m[0m [?1l>[?2004l
-]2;chmod +x init.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hiin
-[0mindent             infocmp            input              install_name_tool  instmodsh5.18    
-indxbib            infokey            install            installer          instruments      
-[Jinfo               [Jinfotocap          [Jinstall-info       [Jinstmodsh          [Jinteger          [J[3A[0m[27m[24m[57Cin[Ki
-[J[0m__git_is_initial_commit  _initctl                 cvaffinity               ncinit                 
-_git-init                bashcompinit             kinit                    zle-line-finish        
-[J_init_d                  [Jcompinit                 [Jmsginit                  [Jzle-line-init          [J[3A[0m[27m[24m[57Cini[K i  ../init.sh[1m [0m[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  ./init.sh[1m [0m[K[0m [?1l>[?2004l
-]2;./init.sh]1;./init.sh[H[2J[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hl ssh 
-[0mREADME.md           [1;31mdb[0m/                 down.sh             [1;31mleads[0m/                                
-[Jbuild.sh            [Jdocker-compose.yml  [J[1;32minit.sh[0m*            [Jrun.sh              [J                  [A[A[0m[27m[24m[57Csh[K[1Ci
-[J[0mIOAccelMemory      imptrace           install_name_tool  iopending          ipcs             
-ibtool             indent             installer          ioreg              ippfind          
-iconutil           indxbib            instmodsh          iosnoop            ipptool          
-iconv              info               instmodsh5.18      iostat             iprofiler        
-ictool             infocmp            instruments        iotop              iptab            
-id                 infokey            integer            ip2cc              iptab5.18        
-idle               infotocap          ioalloccount       ip2cc5.18          irb              
-idle2.7            [1;32minit.sh[0m*           ioclasscount       ipconfig           is-at-least      
-idlj               input              iofile.d           ipcount            is_plugin        
-if                 install            iofileb.d          ipcount5.18                         
-[Jifconfig           [Jinstall-info       [Jiopattern          [Jipcrm              [J                 [11A[0m[27m[24m[57Csh i[Kn
-[J[0mindent             infokey            install            instmodsh                           
-indxbib            infotocap          install-info       instmodsh5.18                       
-info               [1;32minit.sh[0m*           install_name_tool  instruments                         
-[Jinfocmp            [Jinput              [Jinstaller          [Jinteger            [J                 [4A[0m[27m[24m[57Csh in[Kit.sh[1m [0m[0m [?1l>[?2004l
-[J]2;sh init.sh]1;sh[H[2J[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hssh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shSelect example
-1) A
-2) B
-3) C
-4) Quit
-Pick an option: a
-Invalid option. Try another one.
-Pick an option: A
-Invalid option. Try another one.
-Pick an option: 1
-You picked A which is option 1
-Pick an option: ^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shSelect example
-1) A
-2) B
-3) C
-4) Quit
-Pick an option: 1
-You picked A which is option 1
-Pick an option: 1
-You picked A which is option 1
-Pick an option: ^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shSelect example
-1) A
-2) B
-3) C
-4) Quit
-Pick an option: 4
-Goodbye!
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 4
-Goodbye!
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 2
-Starting platform_postgres-db_1 ... 
-[1A[2KStarting platform_postgres-db_1 ... [32mdone[0m[1BStarting platform_app-lead_1    ... 
-[1A[2KStarting platform_app-lead_1    ... [32mdone[0m[1BAttaching to platform_postgres-db_1, platform_app-lead_1
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
-[33mpostgres-db_1  |[0m 
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:44.785 UTC [1] LOG:  starting PostgreSQL 12.3 (Debian 12.3-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:44.786 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:44.786 UTC [1] LOG:  listening on IPv6 address "::", port 5432
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:44.792 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:44.950 UTC [26] LOG:  database system was shut down at 2020-05-31 07:21:24 UTC
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [4mSequelize CLI [Node: 12.17.0, CLI: 5.5.1, ORM: 5.21.11][24m
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m Loaded configuration file "config/config.js".
-[33mpostgres-db_1  |[0m 2020-05-31 22:28:45.019 UTC [1] LOG:  database system is ready to accept connections
-[36mapp-lead_1     |[0m No migrations were executed, database schema was already up to date.
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m > platform-leads@1.0.0 start:dev /usr/src/app
-[36mapp-lead_1     |[0m > nodemon --exec babel-node index.js
-[36mapp-lead_1     |[0m 
-[36mapp-lead_1     |[0m [33m[nodemon] 2.0.4[39m
-[36mapp-lead_1     |[0m [33m[nodemon] to restart at any time, enter `rs`[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching path(s): *.*[39m
-[36mapp-lead_1     |[0m [33m[nodemon] watching extensions: js,mjs,json[39m
-[36mapp-lead_1     |[0m [32m[nodemon] starting `babel-node index.js`[39m
-[36mapp-lead_1     |[0m this is the environment:  development
-[36mapp-lead_1     |[0m Server is running on PORT 8001
-^CGracefully stopping... (press Ctrl+C again to force)
-Stopping platform_app-lead_1    ... 
-Stopping platform_postgres-db_1 ... 
-[2A[2KStopping platform_app-lead_1    ... [32mdone[0m[2B[1A[2KStopping platform_postgres-db_1 ... [32mdone[0m[1BPick an option: 4^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 66
-Invalid option. Try another one.
-Pick an option: 3
-Removing platform_app-lead_1    ... 
-Removing platform_postgres-db_1 ... 
-[1A[2KRemoving platform_postgres-db_1 ... [32mdone[0m[1B[2A[2KRemoving platform_app-lead_1    ... [32mdone[0m[2BRemoving network platform_vidaplatform-net
-Pick an option: sd
-Invalid option. Try another one.
-Pick an option: ^[[A^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: f
-Invalid option. Try another one.
-Pick an option: 3
-Removing network platform_vidaplatform-net
-[33mWARNING[0m: Network platform_vidaplatform-net not found.
-Pick an option: ^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: d
-Invalid option. Try another one.
-Pick an option: sa
-Invalid option. Try another one.
-Pick an option: 4
-Invalid option. Try another one.
-Pick an option: 4
-Invalid option. Try another one.
-Pick an option: ^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 4 3
-Removing network platform_vidaplatform-net
-[33mWARNING[0m: Network platform_vidaplatform-net not found.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 4
-Goodbye!
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 3
-Removing network platform_vidaplatform-net
-[33mWARNING[0m: Network platform_vidaplatform-net not found.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [Ksh init.sh[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-init.sh: line 12: -f: command not found
-init.sh: line 16: -f: command not found
-init.sh: line 20: -f: command not found
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: ^[[A
-Invalid option. Try another one.
-Pick an option: ^C
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004hsh init.sh[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[H[2J[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  sh init.sh[K[?1l>[?2004l
-]2;sh init.sh]1;shVidaplatform menú
-1) Build
-2) Up
-3) Down
-4) Quit
-Pick an option: 3
-Removing network platform_vidaplatform-net
-[33mWARNING[0m: Network platform_vidaplatform-net not found.
-[1m[7m%[27m[1m[0m                                                                                                      ]2;macbookpro@vorozco]1;..code/platform]7;file://vorozco.local/Users/macbookpro/Documents/code/platform[0m[27m[24m[J[35mmacbookpro[00m[36m@[00m[33mvorozco[00m[31m:[00m[36m~/Documents/code/platform[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m [36m⇒[00m  [K[?1h=[?2004h
