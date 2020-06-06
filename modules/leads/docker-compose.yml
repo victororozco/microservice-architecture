@@ -4,7 +4,7 @@ services:
   platform_lead:
     build:
       context: .
-      dockerfile: ./leads/docker/local/app/Dockerfile
+      dockerfile: ./modules/leads/docker/local/app/Dockerfile
     image: platform_lead
     command: >
       bash -c "sleep 20; sequelize db:migrate &&
@@ -15,11 +15,11 @@ services:
     ports:
       - "8001:8001"
     volumes:
-      - ./leads/:/usr/src/app
+      - ./modules/leads/:/usr/src/app
       - /usr/src/app/node_modules
     env_file:
-      - ./leads/.envs/.backend
-      - ./leads/.envs/.frontend
+      - ./modules/leads/.envs/.backend
+      - ./modules/leads/.envs/.frontend
       - ./.envs/.postgres
       - ./.envs/.common
     networks:

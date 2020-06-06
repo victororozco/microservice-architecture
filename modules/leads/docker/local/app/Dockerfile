@@ -9,7 +9,7 @@ RUN apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
-COPY ./leads .
+COPY ./modules/leads .
 RUN npm install -g sequelize-cli nodemon
 RUN npm install
 EXPOSE 8001
