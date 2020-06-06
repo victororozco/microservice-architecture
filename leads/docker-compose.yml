@@ -7,7 +7,7 @@ services:
       dockerfile: ./leads/docker/local/app/Dockerfile
     image: platform_lead
     command: >
-      bash -c "sequelize db:migrate &&
+      bash -c "sleep 20; sequelize db:migrate &&
       npm run start:dev"
     restart: on-failure
     depends_on:

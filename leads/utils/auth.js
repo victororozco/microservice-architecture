@@ -5,7 +5,7 @@ module.exports = (roles, action = '') => {
     const data = req.body;
     console.info('request: ', action, req.baseUrl, req.method, JSON.stringify(data));
     if (req.user) {
-      if (roles.includes(req.user.type) || roles.includes(ALL))
+      if (roles.includes(req.user.role) || roles.includes(ALL))
         next();
       else
         return res.status(403).json({

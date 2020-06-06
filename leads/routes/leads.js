@@ -5,7 +5,7 @@ import {
   AddLead,
 } from '../handlers/leads';
 // Roles
-import { LEAD, ALL } from '../utils/roles';
+import { LEAD, ALL, ADMIN } from '../utils/roles';
 
 const router = express.Router();
 const AUTH = "../utils/auth";
@@ -13,7 +13,7 @@ const AUTH = "../utils/auth";
 // GET
 router.get(
   '/',
-  require(AUTH)([LEAD], 'Get all leads'),
+  require(AUTH)([ADMIN, LEAD], 'Get all leads'),
   GetAllLeads,
 );
 // POST
