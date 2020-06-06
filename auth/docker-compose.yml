@@ -1,0 +1,27 @@
+version: '3'
+
+volumes:
+  local_postgres_data: {}
+  local_postgres_data_backups: {}
+
+services:
+  app-auth:
+    build:
+      context: .
+      dockerfile: ./auth/docker/local/app/Dockerfile
+    image: platform_auth
+    command: >
+      bash -c "printenv > /code/.env && sleep 20; /start"
+    restart: on-failure
+    depends_on:
+      - postgres-db
+    volumes:
+      - ./auth/:/code
+    env_file:
+      - ./auth/.envs/.local/.backend
+      - ./.envs/.postgres
+      - ./.envs/.common
+    ports:
+      - "8000:8000"
+    networks:
+      - vidaplatform-net
