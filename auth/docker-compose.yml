@@ -5,7 +5,7 @@ volumes:
   local_postgres_data_backups: {}
 
 services:
-  app-auth:
+  platform_auth:
     build:
       context: .
       dockerfile: ./auth/docker/local/app/Dockerfile

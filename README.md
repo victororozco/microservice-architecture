@@ -34,7 +34,7 @@ POSTGRES_PORT=5432
 POSTGRES_HOST=postgres-db
 ```
 
-Commands `init.sh`:
+## Commands `init.sh`:
 
 - Build images:
 ```sh
@@ -54,4 +54,18 @@ sh init.sh down
 - Others commands:
 ```sh
 sh init.sh "command to exec"
+```
+
+## Nginx
+
+Configure `/etc/hosts` for access by dns:
+```sh
+sudo vim /etc/hosts
+```
+
+- Copy and paste:
+```sh
+127.0.0.1 vidaplatform.local
+127.0.0.1 lead.vidaplatform.local
+127.0.0.1 auth.vidaplatform.local
 ```
