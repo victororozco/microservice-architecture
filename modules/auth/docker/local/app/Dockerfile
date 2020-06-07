@@ -11,9 +11,13 @@ WORKDIR /code
 COPY ./modules/auth/requirements /code/requirements
 RUN pip install -r /code/requirements/common.txt
 
-COPY ./modules/auth/docker/local/app/start /start
+COPY ./modules/auth/docker/local/app/entrypoint.sh /entrypoint
+RUN sed -i 's/\r//' /entrypoint
+RUN chmod +x /entrypoint
+
+COPY ./modules/auth/docker/local/app/start.sh /start
 RUN sed -i 's/\r//' /start
 RUN chmod +x /start
 
 EXPOSE 8000
-CMD ["/start"]
+CMD ["/entrypoint"]
