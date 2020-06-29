@@ -4,7 +4,7 @@ services:
   platform_lead:
     build:
       context: .
-      dockerfile: ./modules/leads/docker/local/app/Dockerfile
+      dockerfile: ./modules/leads/docker/qa/app/Dockerfile
     image: platform_lead
     command: >
       bash -c "sleep 20; sequelize db:migrate &&
@@ -14,20 +14,21 @@ services:
       - postgres-db
     ports:
       - "8001:8001"
-    volumes:
-      - ./modules/leads/:/usr/src/app
-      - /usr/src/app/node_modules
     env_file:
-      - ./modules/leads/.envs/.backend
-      - ./modules/leads/.envs/.frontend
+      - ./modules/leads/.envs/.test/.backend
+      - ./modules/leads/.envs/.test/.frontend
       - ./.envs/.postgres
       - ./.envs/.common
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
     networks:
       - vidaplatform-net
-
-volumes:
-  db-data:
-  db-backups:
 
 networks:
   vidaplatform-net:

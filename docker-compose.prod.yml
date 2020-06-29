@@ -1,0 +1,62 @@
+version: "3"
+
+services:
+
+  postgres-db:
+    image: postgres:latest
+    volumes:
+      - pdb-data:/var/lib/postgresql/data
+      - pdb-backups:/backups
+    env_file:
+      - ./.envs/.prod/.postgres
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "us-east-1"
+        awslogs-group: "vidaplatform-group"
+        awslogs-stream: "vidaplatform-postgresql"
+    networks:
+      - vidaplatform-net
+
+  #Nginx Service
+  platform_nginx:
+    image: nginx:alpine
+    container_name: platform_nginx
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ./docker/local/nginx/conf.d/:/etc/nginx/conf.d/
+    ports:
+      - "80:80"
+      - "443:443"
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "us-east-1"
+        awslogs-group: "vidaplatform-group"
+        awslogs-stream: "vidaplatform-nginx"
+    networks:
+      - vidaplatform-net
+
+volumes:
+  pdb-data:
+  pdb-backups:
+
+networks:
+  vidaplatform-net:

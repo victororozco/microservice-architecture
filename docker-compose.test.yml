@@ -8,7 +8,15 @@ services:
       - ./db/data:/var/lib/postgresql/data
       - ./db/backups:/backups
     env_file:
-      - ./.envs/.postgres
+      - ./.envs/.qa/.postgres
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
     networks:
       - vidaplatform-net
 
@@ -23,12 +31,16 @@ services:
     ports:
       - "80:80"
       - "443:443"
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
     networks:
       - vidaplatform-net
-
-volumes:
-  db-data:
-  db-backups:
 
 networks:
   vidaplatform-net:

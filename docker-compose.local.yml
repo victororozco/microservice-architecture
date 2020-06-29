@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+
+  postgres-db:
+    image: postgres:latest
+    volumes:
+      - ./db/data:/var/lib/postgresql/data
+      - ./db/backups:/backups
+    env_file:
+      - ./.envs/.local/.local/.postgres
+    networks:
+      - vidaplatform-net
+
+  #Nginx Service
+  platform_nginx:
+    image: nginx:alpine
+    container_name: platform_nginx
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ./docker/local/nginx/conf.d/:/etc/nginx/conf.d/
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      - vidaplatform-net
+
+networks:
+  vidaplatform-net:

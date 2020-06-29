@@ -1,0 +1,40 @@
+version: "3"
+
+services:
+  platform_lead:
+    build:
+      context: .
+      dockerfile: ./modules/leads/docker/prod/app/Dockerfile
+    image: platform_lead
+    command: >
+      bash -c "sleep 20; sequelize db:migrate &&
+      npm run start:dev"
+    restart: on-failure
+    depends_on:
+      - postgres-db
+    ports:
+      - "8001:8001"
+    env_file:
+      - ./modules/leads/.envs/.prod/.backend
+      - ./modules/leads/.envs/.prod/.frontend
+      - ./.envs/.prod/.postgres
+      - ./.envs/.prod/.common
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "us-east-1"
+        awslogs-group: "vidaplatform-group"
+        awslogs-stream: "vidaplatform-leads"
+    networks:
+      - vidaplatform-net
+
+networks:
+  vidaplatform-net:

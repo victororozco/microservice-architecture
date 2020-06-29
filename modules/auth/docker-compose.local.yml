@@ -1,9 +1,5 @@
 version: '3'
 
-volumes:
-  local_postgres_data: {}
-  local_postgres_data_backups: {}
-
 services:
   platform_auth:
     build:
@@ -18,8 +14,8 @@ services:
       - ./modules/auth/:/code
     env_file:
       - ./modules/auth/.envs/.local/.backend
-      - ./.envs/.postgres
-      - ./.envs/.common
+      - ./.envs/.local/.postgres
+      - ./.envs/.local/.common
     ports:
       - "8000:8000"
     networks:
